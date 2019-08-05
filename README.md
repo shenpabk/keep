@@ -1,2 +1,5 @@
 # keep
-My tech notes
+
+The repo to keep my tech **Magical** stuff~
+
+- [x] Preclue my sites
